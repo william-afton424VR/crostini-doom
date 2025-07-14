@@ -20,6 +20,14 @@
    ```bash
    git clone https://github.com/william-afton424VR/crostini-doom.git
    cd crostini-doom
+##instructions (system requirements python 3.11+,bildozer,kivy,crostini-enabled chromebook android SDK and NDK (automatically installed when running buildozer))
+## Quickstart
+
+Install Kivy:
+```bash
+pip install kivy
+buildozer android clean
+buildozer -v android debug
 ## License Notice
 
 Crostini DOOM is released under a proprietary license. Personal use is permitted, but redistribution, public deployment, modification, and commercial use are strictly prohibited. Refer to LICENSE.txt for full terms.
