@@ -18,7 +18,7 @@
 
 1. Clone or download the project:
    ```bash
-   git clone https://github.com/yourname/crostini-doom.git
+   git clone https://github.com/william-afton424VR/crostini-doom.git
    cd crostini-doom
 ## License Notice
 
