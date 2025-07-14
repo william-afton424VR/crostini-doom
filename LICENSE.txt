@@ -1,0 +1,47 @@
+Crostini DOOM – Proprietary License v1.0
+Copyright © 2025 Lestat. All rights reserved.
+
+This software, referred to as “Crostini DOOM,” including its source code, assets, design elements, logic structure, and documentation, is protected under copyright and proprietary law.
+
+By accessing, downloading, modifying, executing, or interacting with Crostini DOOM, you agree to the following legally binding restrictions:
+
+1. Prohibited Actions
+
+1.1 Redistribution  
+You may not copy, distribute, sublicense, publish, or make Crostini DOOM available to others, in whole or in part, in source or compiled form, without written permission from the author.
+
+1.2 Commercial Use  
+You may not monetize, sell, rent, lease, promote, or use Crostini DOOM in any commercial capacity, directly or indirectly.
+
+1.3 Derivative Works  
+You may not create, share, or distribute modified versions, forks, remixes, expanded editions, or derivative works based on Crostini DOOM without explicit written consent.
+
+1.4 Public Deployment  
+You may not deploy, host, or publish Crostini DOOM on any public-facing platform, including but not limited to websites, app stores, repositories, game portals, online services, or social media.
+
+1.5 Reverse Engineering  
+You may not reverse engineer, decompile, disassemble, or attempt to extract or replicate the internal design, architecture, algorithms, or source code for any purpose.
+
+1.6 Artificial Intelligence & Data Use  
+Crostini DOOM may not be used for training, fine-tuning, testing, scraping, data mining, dataset creation, or integration into machine learning systems, whether academic, experimental, or commercial.
+
+1.7 Code Extraction  
+You may not isolate, repackage, or reuse classes, functions, modules, or assets in other software projects, frameworks, or engines.
+
+2. Permitted Actions
+
+2.1 Personal Gameplay  
+You may play Crostini DOOM for personal, private enjoyment on your own device. No networked, broadcasted, or publicly shared gameplay is permitted.
+
+2.2 Non-Distributive Referral  
+You may suggest or recommend Crostini DOOM verbally or in writing to others (e.g., through conversation, direct messaging, or posts), provided that no file, copy, or build is provided, uploaded, transmitted, or made available.
+
+3. Enforcement and Liability
+
+Any violation of these terms may result in civil or criminal liability under applicable intellectual property law. No warranty is provided, and the author is not responsible for any damages or losses resulting from use or misuse.
+
+For licensing requests or collaboration inquiries, contact:
+
+Email: vannosterlestatsy@gmail.com  
+Phone: +1 (574) 383-2700  
+Name: Lestat
