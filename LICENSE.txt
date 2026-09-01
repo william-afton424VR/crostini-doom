@@ -1,47 +1,23 @@
-Crostini DOOM – Proprietary License v1.0
-Copyright © 2025 Lestat. All rights reserved.
+# WILLIAM VR PRODUCTIONS PROPRIETARY SOFTWARE LICENSE
 
-This software, referred to as “Crostini DOOM,” including its source code, assets, design elements, logic structure, and documentation, is protected under copyright and proprietary law.
+## 1. DEFINITIONS AND INTERPRETATION
+In this License, "Software" refers to crostini-doom, including all associated source code, binary files, documentation, scripts, and digital assets hosted within this repository, created, owned, and managed exclusively by William VR Productions ("Licensor"). "User" or "Licensee" refers to any individual, entity, or browser user accessing, downloading, or interacting with the Software.
 
-By accessing, downloading, modifying, executing, or interacting with Crostini DOOM, you agree to the following legally binding restrictions:
+## 2. GRANT OF RESTRICTED ACCESS
+The Licensor hereby grants the User a strictly limited, non-exclusive, non-transferable, revocable right to view and execute the Software solely for personal, non-commercial evaluation purposes within a compatible web browser. This grant does not convey any ownership rights, intellectual property interests, or licensing privileges beyond this explicit viewing scope.
 
-1. Prohibited Actions
+## 3. COPYRIGHT AND ALL RIGHTS RESERVED
+Copyright (c) 2026 William VR Productions. All rights reserved. 
+The Software and its entire contents are protected by international copyright laws, treaties, and domestic intellectual property statutes. Except as expressly permitted under this License or by mandatory statutory law, no portion of this Software may be reproduced, modified, distributed, transmitted, displayed, reverse-engineered, decompiled, published, or exploited in any form or by any means, electronic or mechanical, without the prior explicit written authorization of William VR Productions.
 
-1.1 Redistribution  
-You may not copy, distribute, sublicense, publish, or make Crostini DOOM available to others, in whole or in part, in source or compiled form, without written permission from the author.
+## 4. PROHIBITED ACTIONS
+Without limiting the generality of Section 3, the User is expressly prohibited from:
+* Removing, altering, or obscuring any proprietary notices, branding, or copyright markings embedded within the Software or repository files.
+* Distributing, sublicensing, leasing, renting, or otherwise transferring copies of the Software to any third party.
+* Utilizing the Software, its branding, or associated codebase as the basis for unauthorized derivative works or commercial adaptations.
 
-1.2 Commercial Use  
-You may not monetize, sell, rent, lease, promote, or use Crostini DOOM in any commercial capacity, directly or indirectly.
+## 5. DISCLAIMER OF WARRANTIES
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-1.3 Derivative Works  
-You may not create, share, or distribute modified versions, forks, remixes, expanded editions, or derivative works based on Crostini DOOM without explicit written consent.
-
-1.4 Public Deployment  
-You may not deploy, host, or publish Crostini DOOM on any public-facing platform, including but not limited to websites, app stores, repositories, game portals, online services, or social media.
-
-1.5 Reverse Engineering  
-You may not reverse engineer, decompile, disassemble, or attempt to extract or replicate the internal design, architecture, algorithms, or source code for any purpose.
-
-1.6 Artificial Intelligence & Data Use  
-Crostini DOOM may not be used for training, fine-tuning, testing, scraping, data mining, dataset creation, or integration into machine learning systems, whether academic, experimental, or commercial.
-
-1.7 Code Extraction  
-You may not isolate, repackage, or reuse classes, functions, modules, or assets in other software projects, frameworks, or engines.
-
-2. Permitted Actions
-
-2.1 Personal Gameplay  
-You may play Crostini DOOM for personal, private enjoyment on your own device. No networked, broadcasted, or publicly shared gameplay is permitted.
-
-2.2 Non-Distributive Referral  
-You may suggest or recommend Crostini DOOM verbally or in writing to others (e.g., through conversation, direct messaging, or posts), provided that no file, copy, or build is provided, uploaded, transmitted, or made available.
-
-3. Enforcement and Liability
-
-Any violation of these terms may result in civil or criminal liability under applicable intellectual property law. No warranty is provided, and the author is not responsible for any damages or losses resulting from use or misuse.
-
-For licensing requests or collaboration inquiries, contact:
-
-Email: vannosterlestatsy@gmail.com  
-Phone: +1 (574) 383-2700  
-Name: Lestat
+## 6. LEGAL RECOURSE AND ENFORCEMENT
+Any unauthorized copying, modification, distribution, or public display of this file, the repository, or any constituent part thereof is strictly prohibited. Violation of these terms constitutes an immediate breach of this License and an infringement of William VR Productions' intellectual property rights. The Licensor reserves the right to pursue all available civil remedies, statutory damages, and legal actions to the fullest extent permitted by law.
