@@ -4,7 +4,7 @@
 
 ---
 
-## 🧪 Features
+##  Features
 
 - Touch-based dodge mechanic with health tracking
 - Randomized enemy dialogue and damage scaling
@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 1. Clone or download the project:
    ```bash
@@ -32,4 +32,4 @@ buildozer -v android debug
 
 Crostini DOOM is released under a proprietary license. Personal use is permitted, but redistribution, public deployment, modification, and commercial use are strictly prohibited. Refer to LICENSE.txt for full terms.
 
-Contact: vannosterlestatsy@gmail.com or +1 (574) 383-2700 for permissions or collaboration inquiries.
+Contact: vannosterlestatsy@gmail.com for permissions or collaboration inquiries.
